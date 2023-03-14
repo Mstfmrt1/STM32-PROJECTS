@@ -1,0 +1,5 @@
+../Core/Src/stm32f4xx_motordriver.c:27:6:DC_MOTOR_Init	56	static
+../Core/Src/stm32f4xx_motordriver.c:111:6:DC_MOTOR_Start	16	static
+../Core/Src/stm32f4xx_motordriver.c:144:6:DC_MOTOR_Set_Speed	16	static
+../Core/Src/stm32f4xx_motordriver.c:165:6:DC_MOTOR_Set_Dir	16	static
+../Core/Src/stm32f4xx_motordriver.c:180:6:DC_MOTOR_Stop	16	static
